@@ -1,16 +1,22 @@
-## Hi there 👋
+MARIAH LAURA 
 
-<!--
-**mariahsilva2004/mariahsilva2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TECNICA EM DESENVOLVIMENTO DE SISTEMAS 
 
-Here are some ideas to get you started:
+ MINHA CARREIRA:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+EU FAÇO CURSO DE DESENVOLVIMENTO DE SISTEMAS E EU SEI UM POUCO DE  JAVA , VS CODE E ANDROID STUDIO  ESTOU ESTUDANDO LINGUAGENS 
+DE CODIGOS COMO CSS E HTML, E  ENTENDO UM POUCO DE PROGRAMAÇÃO. Sei fazer sites e aplicativos ja apresentei varios projetos ao longo
+do curso que faço.
+
+linguagens ja vistas:
+.python
+.java
+.vscode
+.android studio
+
+
+
+
+
+
+
